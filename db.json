@@ -1,1 +1,1 @@
-{"response":[{"nama_poli":"GIGI","nama_ruang":"POLI PENYAKIT DALAM 1","no_antrian":2,"nama_dokter":"Dr. Apen Afgani,","nama_pasien":" Bambang, Nn","jml_kuota":120,"jml_terpakai":3,"sisa_kuota":117}],"metadata":{"message":"OK","code":200}}
+{"response":[{"nama_poli":"GIGI","nama_ruang":"POLI PENYAKIT DALAM 1","no_antrian":2,"nama_dokter":"VTM,","nama_pasien":" Ibu Sari, Nn","jml_kuota":120,"jml_terpakai":3,"sisa_kuota":117}],"metadata":{"message":"OK","code":200}}
