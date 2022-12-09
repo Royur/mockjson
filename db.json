@@ -1,1 +1,1 @@
-{"response":[{"nama_poli":"GIGI","nama_ruang":"POLI PENYAKIT DALAM 1","no_antrian":5,"nama_dokter":"VTM,","nama_pasien":" Bu Sari ","jml_kuota":120,"jml_terpakai":3,"sisa_kuota":117}],"metadata":{"message":"OK","code":200}}
+{"response":[{"nama_poli":"GIGI","nama_ruang":"POLI PENYAKIT DALAM 1","no_antrian":6,"nama_dokter":"VTM,","nama_pasien":" Putri Andika Sari","jml_kuota":120,"jml_terpakai":3,"sisa_kuota":117}],"metadata":{"message":"OK","code":200}}
